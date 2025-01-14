@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a vfx vendor codebase
-- ✨ I just reset all my repositories
-- 💬 Ask me about my foundry nuke tools
+- 🔭 I’m currently working on a freelance nuke artist toolkit
+- ✨ I reset all my repositories January 2025
+- 💬 Ask me about my NFC implant
 - 📫 How to reach me: ian@ianblewitt.com
 
